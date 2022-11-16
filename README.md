@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# About
+
+Simple React app that demonstrates the use of React Query for fetching and caching API calls.
+
+[YouTube series link](https://www.youtube.com/watch?v=x1rQ61otgtU&list=PLEX-O1MiFgYQ5XX81V0V79NbmSVK1bVQ5)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
